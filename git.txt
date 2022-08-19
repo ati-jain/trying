@@ -8,4 +8,7 @@ then do a git command, git pull
 
 To push your folder to github
 git clone HTTPS
-
+//git init
+git add .
+git commit -m "comment"
+git push

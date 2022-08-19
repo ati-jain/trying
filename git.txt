@@ -1,0 +1,11 @@
+setting a personal token, do 
+git config --global credential.helper cache
+then do a git command, git pull
+
+to remove the previously saved token, do
+git config --global --unset credential.helper
+then do a git command, git pull
+
+To push your folder to github
+git clone HTTPS
+
